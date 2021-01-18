@@ -16,7 +16,7 @@ The code uses the following data sources:
 
 # Use
 
-Simply run python3 WeatherScreen.py (pay require pip to install some modules such as geopi)
+Simply run python3 WeatherScreen.py (may require pip to install some modules such as geopi)
 
 # Hardware
 
